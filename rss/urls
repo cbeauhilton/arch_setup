@@ -1,0 +1,26 @@
+# URLS for newsboat
+https://sanctum.geek.nz/arabesque/feed/ "Tech" "Programming General"
+https://olgabotvinnik.com/index.xml "Tech" "Biology"
+https://zachholman.com/atom "Tech"
+http://www.calnewport.com/blog/feed/ "Productivity" "Minimalism"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Tech" "Videos"
+https://lukesmith.xyz/rss.xml "Tech"
+http://www.fast.ai/atom.xml "ML"
+http://machinelearningmastery.com/blog/feed "ML"
+https://medium.com/feed/@williamkoehrsen "ML"
+https://distill.pub/rss.xml "ML"
+https://erikbern.com/atom.xml "ML"
+https://texblog.org/feed/ "TeX"
+http://aiweirdness.com/rss "ML"
+https://medium.com/feed/@shiutangli "ML"
+https://medium.com/feed/@dipanzan.sarkar "ML"
+https://lukeoakdenrayner.wordpress.com/feed/ "ML" "Medicine"
+https://medium.com/feed/@citynorman "ML"
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1DoqKB8O4L1HKJ03CSM3_u9Nso2Mh3EAW0p2xKsNDP4weQmg5- "ML" "Medicine" # Isaac Kohane
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1h3SAs98aPqmd6Vfxn_uiAWup_3lYctL4aAFP-Y7Eg8Pn6DEFA "ML" "Medicine" # Andrew Beam
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1LYeLHGBis0h-Lsf3JolAU4vKQfag0FIfccYEuHHw588IEaouQ "ML" "Medicine" # Luke Oakden-Rayner
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1z_pxc-9fhPUGO3O_yTKHOiZnSIaAVzVxhd2tmq3tMYy6gxEhK "ML" "Medicine" # Scott Lundberg
+http://www.bloodjournal.org/rss/current.xml "HemOnc" "Medicine"
+http://www.bloodjournal.org/rss/MYELOID_NEOPLASIA.xml "HemOnc" "Medicine"
+http://www.bloodjournal.org/rss/REVIEW_ARTICLES.xml "HemOnc" "Medicine"
+http://www.bloodjournal.org/rss/HOW_I_TREAT.xml "HemOnc" "Medicine"
