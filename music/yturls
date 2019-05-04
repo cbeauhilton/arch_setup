@@ -1,6 +1,6 @@
 # Music
 # Feed this to youtube-dl
-# youtube-dl --add-metadata -xic -f bestaudio/best -o '~/Music/YT_Downloads/%(title)s.%(ext)s' --restrict-filenames -a ~/Documents/GitHub/music/yturls
+# youtube-dl --add-metadata -xic -f bestaudio/best -o '~/Music/YT_Downloads/%(title)s.%(ext)s' --restrict-filenames -a https://raw.githubusercontent.com/cbeauhilton/arch_setup/master/music/yturls
 https://www.youtube.com/watch?v=bLm5Yh07wZM&t=497s # utopia chillstep
 https://www.youtube.com/watch?v=4ceowgHn8BE&t=117s # RPG peaceful
 https://www.youtube.com/watch?v=9yvbAqvhnQc&t=19s # best of phlocalyst
