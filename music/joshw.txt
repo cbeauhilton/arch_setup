@@ -1,0 +1,86 @@
+# 3do 
+# http://3do.joshw.info/
+
+# Dreamcast 
+
+# FM towns music archive 
+# http://fmtowns.joshw.info/
+
+# Gameboy 
+
+# Gameboy A 
+
+# Gamecube 
+
+# Hoot music archives 
+
+# MSX music archives 
+# http://kss.joshw.info/
+
+# Neo Geo 
+# Nes music archives 
+http://nsf.joshw.info/
+
+# Nintendo 3ds 
+
+# Nintendo 64 
+# http://usf.joshw.info/
+
+# Nintendo DS 
+
+# Nintendo Wii 
+
+# Nintendo Wii u 
+
+# Pc engine 
+
+# PC music archives 
+# http://pc.joshw.info/
+
+# Playstation 
+
+# Playstation 2 
+
+# Playstation 3 
+
+# Playstation portable 
+
+# Playstation Vita 
+
+# S98 music archives 
+# http://s98.joshw.info/
+
+# Saturn 
+
+# Segacd/Sega mega drive 
+
+# Snes music archives 
+http://spc.joshw.info/
+
+# Wonder swan 
+
+# Xbox 
+# http://xbox.joshw.info/
+
+# Xbox360 
+# http://x360.joshw.info/
+
+# http://2sf.joshw.info/
+# http://3sf.joshw.info/
+# http://dsf.joshw.info/
+# http://gbs.joshw.info/
+# http://gcn.joshw.info/
+# http://gsf.joshw.info/
+# http://hes.joshw.info/
+# http://hoot.joshw.info/
+# http://ncd.joshw.info/
+# http://psf.joshw.info/
+# http://psf2.joshw.info/
+# http://psf3.joshw.info/
+# http://psp.joshw.info/
+# http://smd.joshw.info/
+# http://ssf.joshw.info/
+# http://vita.joshw.info/
+# http://wii.joshw.info/
+# http://wiiu.joshw.info/
+# http://wsr.joshw.info/
