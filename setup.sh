@@ -75,6 +75,7 @@ conda install -y \
      	seaborn \
      	shap \
 conda clean -a -y
+conda config --set auto_activate_base false
 conda deactivate
 conda deactivate
 conda deactivate # probably only need two of these to return to pre-base env, but eh.
