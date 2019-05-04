@@ -29,8 +29,9 @@ download() {
 yay --noconfirm --needed -Syu
 
 yay --noconfirm --needed -S \
-    anki \
+    python3 \
     python-openslide \
+    anki \
     visual-studio-code-bin \
     github-desktop-bin \
     urlview \
@@ -75,3 +76,5 @@ conda install -y \
      	shap \
 conda clean -a -y
 conda deactivate
+conda deactivate
+conda deactivate # probably only need two of these to return to pre-base env, but eh.
