@@ -9,7 +9,7 @@ cd ~/Music/VGM/
 
 # Recursively search all the systems of interest on xyz.joshw.info (see joshw.txt for list)
 # and download all .7z files to the VGM directory
-wget -r -np -t1 -N -l3 -e robots=off -A.7z -i ~/Documents/GitHub/arch_setup/music/joshw.txt
+wget -r -np -t1 -N -l3 -e robots=off -A.7z -i https://raw.githubusercontent.com/cbeauhilton/arch_setup/master/music/joshw.txt
 
 # Delete any empty directories that were made
 find . -type d -empty -delete
