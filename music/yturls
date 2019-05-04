@@ -1,0 +1,29 @@
+# Music
+# Feed this to youtube-dl
+# youtube-dl --add-metadata -xic -f bestaudio/best -o '~/Music/YT_Downloads/%(title)s.%(ext)s' --restrict-filenames -a ~/Documents/GitHub/music/yturls
+https://www.youtube.com/watch?v=bLm5Yh07wZM&t=497s # utopia chillstep
+https://www.youtube.com/watch?v=4ceowgHn8BE&t=117s # RPG peaceful
+https://www.youtube.com/watch?v=9yvbAqvhnQc&t=19s # best of phlocalyst
+https://www.youtube.com/watch?v=o85w80g2Aq4&t=6s # prototype chill synthwave
+https://www.youtube.com/watch?v=7FG7nTUYowQ&t=38s # offworld chill synthwave
+https://www.youtube.com/watch?v=hWUWXqa1w1Q&t=19s # sleepless nights lofi 4
+https://www.youtube.com/watch?v=mMw6UFZuL9o&t=50s # shinobi lofi
+https://www.youtube.com/watch?v=jrTMMG0zJyI&t=8s # samurai lofi
+https://www.youtube.com/watch?v=nkAPG-i9uNs&t=60s # daydream tokyo rain lofi
+https://www.youtube.com/watch?v=4he2h5o3WQs&t=647s # ghibli lofi tributes
+https://www.youtube.com/watch?v=qb6gvk52D5k&t=20s # 1h ghibli lofi
+https://www.youtube.com/watch?v=50JJZIKdj0s&t=1s # manhatten jazzhop
+https://www.youtube.com/watch?v=EC24rvm5Awk&t=1s # tokyo dreaming lofi
+https://www.youtube.com/watch?v=dOFsCX72jyU&t=644s # breathing dreams like air lofi
+https://www.youtube.com/watch?v=GdzrrWA8e7A&t=1s # zelda y chill
+https://www.youtube.com/watch?v=XIzdecbzCnA&t=12s # happiness chillhop
+https://www.youtube.com/watch?v=XxeQX_QZHzc # paris jazzhop
+https://www.youtube.com/watch?v=GGBm9gTY2NU&t=2041s # downtown jazzhop
+https://www.youtube.com/watch?v=-FlxM_0S2lA # lofi 2018
+https://www.youtube.com/watch?v=dR17U5-VKtw # 0330 lofi
+https://www.youtube.com/watch?v=avmjunRX_xo # jazzy coffee jazzhop
+https://www.youtube.com/watch?v=6u5a7_-a3vM # ny jazzhop
+
+
+# Instructional - move these to video dl list
+# https://www.youtube.com/watch?v=DqS6EKjqBbY # GBM better than DL?!
