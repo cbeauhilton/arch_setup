@@ -1,5 +1,6 @@
 # URLS for newsboat
 # curl https://raw.githubusercontent.com/cbeauhilton/arch_setup/master/rss/urls > ~/.config/newsboat/urls 
+"query:Unread Articles:unread = \"yes\"" # adds feed comprised of all unread articles to top of list
 https://sanctum.geek.nz/arabesque/feed/ "Tech" "Programming General"
 https://olgabotvinnik.com/index.xml "Tech" "Biology"
 https://zachholman.com/atom "Tech"
