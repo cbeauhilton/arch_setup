@@ -32,6 +32,7 @@ yay --noconfirm --needed -S \
     python3 \
     python-openslide \
     anki \
+    alsa-utils \
     visual-studio-code-bin \
     github-desktop-bin \
     urlview \
