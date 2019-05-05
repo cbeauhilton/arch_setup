@@ -1,4 +1,5 @@
 # URLS for newsboat
+# curl https://raw.githubusercontent.com/cbeauhilton/arch_setup/master/rss/urls > ~/.config/newsboat/urls 
 https://sanctum.geek.nz/arabesque/feed/ "Tech" "Programming General"
 https://olgabotvinnik.com/index.xml "Tech" "Biology"
 https://zachholman.com/atom "Tech"
