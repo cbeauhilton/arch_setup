@@ -35,6 +35,7 @@ yay --noconfirm --needed -S \
     alsa-utils \
     visual-studio-code-bin \
     github-desktop-bin \
+    pass-git-helper \
     urlview \
     p7zip \
     inkscape \
@@ -80,3 +81,4 @@ conda config --set auto_activate_base false
 conda deactivate
 conda deactivate
 conda deactivate # probably only need two of these to return to pre-base env, but eh.
+git config --global credential.helper 'cache --timeout 3600' # set git to ask for pw 1x/hr instead of every time
